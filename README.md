@@ -111,4 +111,4 @@ Using the outputs generated from the customer node questions, generate a few hea
 With the transaction analysis - prepare a 1 page presentation slide which contains all the relevant information about the various options for the data provisioning so the Data Bank management team can make an informed decision.
 </details>
 
-## Solutions(https://github.com/Chicong00/Case-study-4-solutions)
+## [Solutions](https://github.com/Chicong00/Case-study-4-solutions)
