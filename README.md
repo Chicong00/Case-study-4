@@ -41,7 +41,7 @@ This random distribution changes frequently to reduce the risk of hackers gettin
 
 This table stores all customer deposits, withdrawals and purchases made using their Data Bank debit card.
 
-## Case Study Question
+## Case Study Questions
 <details>
 <summary>
 A. Customer Nodes Exploration
